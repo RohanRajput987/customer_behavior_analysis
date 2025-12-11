@@ -162,4 +162,4 @@ Screenshots and visuals match the uploaded PBIX report.
 
 ### **1. Clone the Repo**
 ```bash
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+git clone https://github.com/RohanRajput987/customer_behavior_analysis
